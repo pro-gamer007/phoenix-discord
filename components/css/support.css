@@ -12,7 +12,6 @@
 }
 .powercord-spotify .spotify-seek-bar-progress {
   position: absolute;
-  height: 56px !important;
   transition: 0.2s;
   bottom: 0px;
   z-index: -1;
@@ -20,7 +19,6 @@
 }
 
 .powercord-spotify.hover .spotify-seek-bar-progress {
-  height: 83px !important;
   transition: 0.2s;
 }
 

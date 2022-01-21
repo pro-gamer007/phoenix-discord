@@ -172,6 +172,10 @@
     height: calc(100% - 8px);
 }
 
+.scroller-18M1mG {
+    background-color: var(--background-secondary);
+}
+
 .sidebar-2K8pFh {
     border-bottom-left-radius: 8px !important;
     border-top-left-radius: 8px !important;
@@ -265,4 +269,12 @@
 // -----Voicechat-----
 .container-1giJp5 {
     border-bottom: none;
+}
+
+.newMessagesBar-1hF-9G {
+    background: var(--background-secondary);
+}
+
+.unread-2wipsx {
+    background: var(--background-primary);
 }

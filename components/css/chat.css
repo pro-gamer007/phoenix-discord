@@ -212,9 +212,13 @@
 }
 
 .newMessagesBar-1hF-9G {
-  background: var(--background-secondary);
+  background: #3b3b5f;
 }
 
 .unread-2wipsx {
   background: var(--background-primary);
+}
+
+.jumpToPresentBar-1cEnH0 {
+  background: #3b3b5f;
 }
